@@ -27,8 +27,8 @@ FibonacciSeries(7);
 ```csharp
 public int Fibonacci(int n)
 {
-    if (n <= 1)
-        return n;
+    if (n == 0) return 0; //To return the first Fibonacci number   
+    if (n == 1) return 1; //To return the second Fibonacci number
     return Fibonacci(n - 1) + Fibonacci(n - 2);
 }
 ```
