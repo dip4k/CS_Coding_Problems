@@ -1,0 +1,2 @@
+## Resources
+1. [System Design Interview Survival Guide (2024): Preparation Strategies and Practical Tips](https://levelup.gitconnected.com/system-design-interview-survival-guide-2023-preparation-strategies-and-practical-tips-ba9314e6b9e3)
