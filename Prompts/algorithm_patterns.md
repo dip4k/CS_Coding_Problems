@@ -13,3 +13,6 @@ include different algorithms used in each approach.
 
 List down DSA Essential Problem-Solving Patterns.
 give atleast 20 examples.
+
+list down essential problem-solving patterns in data structures and algorithms (DSA), categorized by difficulty.
+format output to markdown format

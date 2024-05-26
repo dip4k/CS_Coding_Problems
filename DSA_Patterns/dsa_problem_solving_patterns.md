@@ -1,4 +1,4 @@
-Certainly! When it comes to solving data structures and algorithms problems during interviews, understanding common patterns can be incredibly helpful. Here are some GitHub repositories that focus on these essential problem-solving patterns:
+# problem-solving patterns:
 
 1. **Coding Patterns for DSA by Nishant4coding**:
 
@@ -31,78 +31,9 @@ Certainly! When it comes to solving data structures and algorithms problems duri
    - SohanR curated a list of the top 100 DSA problems from LeetCode, covering a wide array of topics such as Array, String, Linked List, Graph, Dynamic Programming, Tree, Stack, Queue, and more.
    - Check it out [here](https://github.com/SohanR/100-DSA-Interview-Problems).
 
-4. **DSA Essentials by Ekta-Verma**:
-   - This repository covers fundamental concepts in data structures, algorithms, complexity analysis, problem-solving techniques, algorithm design paradigms, and efficient data manipulation.
-   - It's crucial for understanding algorithm performance in computer science and programming.
-   - Explore it [here](https://github.com/Ekta-Verma/dsa_essentials).
-
-Certainly! Let's explore **15 essential problem-solving patterns** in data structures and algorithms (DSA), categorized by difficulty. I'll provide examples for each pattern in markdown format:
-
 ---
 
-### **1. Two Pointer Pattern**
-
-- **Usage**: The two-pointer technique is a powerful strategy employed in algorithmic problem-solving, particularly in scenarios where the data is linear, such as arrays, strings, or linked lists.
-- **Description**: This approach involves using two pointers, which are essentially variables that store memory addresses or indices within the data structure. These pointers are manipulated to traverse the data in a coordinated manner, often moving in opposite directions or with a consistent interval between them.
-- **Effective For**: Simultaneous exploration of different parts of the data, facilitating efficient comparisons and computations.
-- **Data Structures Involved**: Arrays, strings, and linked lists.
-- **Sample Problems**:
-  - **Locating the Nearest Pair from Two Sorted Arrays**:
-    - Given two sorted arrays, find the pair with the smallest absolute difference.
-    - Example input: `arr1 = [1, 3, 5], arr2 = [2, 4, 6]`
-    - Example output: `[3, 4]` (smallest absolute difference)
-  - **Identifying the Pair in an Array Whose Sum Is Closest to a Given Value, x**:
-    - Use two pointers to traverse the array from both ends, adjusting their positions based on the sum of the current pair until the closest sum to `x` is found.
-    - Example input: `arr = [1, 3, 5, 7], x = 8`
-    - Example output: `[3, 5]` (closest sum to `x`)
-
-### **2. Sliding Window Pattern**
-
-- **Usage**: Ideal for problems involving contiguous subarrays or subsequences.
-- **Description**: Maintain a "window" of elements in an array or string while iterating through it.
-- **Effective For**: Finding subarrays with a specific sum, longest subarrays with distinct elements, and maximum sum subarrays.
-- **Sample Problems**:
-  - **Maximum Sum Subarray of Size K**:
-    - Given an array of integers and a positive integer `K`, find the maximum sum of any contiguous subarray of size `K`.
-    - Example input: `arr = [2, 1, 5, 1, 3, 2], K = 3`
-    - Example output: `9` (sum of subarray `[5, 1, 3]`)
-
-### **3. Fast & Slow Pointers (Hare & Tortoise Algorithm)**
-
-- **Usage**: Detecting cycles in linked lists, finding the middle node.
-- **Description**: Use two pointers—one moving faster than the other—to achieve specific goals.
-- **Effective For**: Identifying cycles in linked lists and finding the middle node.
-- **Sample Problems**:
-  - **Middle of the Linked List**:
-    - Given a singly linked list, find the middle node.
-    - Example input: `1 -> 2 -> 3 -> 4 -> 5`
-    - Example output: `3` (middle node)
-
-### **4. Merge Intervals Pattern**
-
-- **Usage**: Merging overlapping intervals or detecting overlapping intervals.
-- **Description**: Combine intervals that overlap or have common boundaries.
-- **Effective For**: Merging intervals, finding overlapping meetings, and scheduling tasks.
-- **Sample Problems**:
-  - **Merge Intervals**:
-    - Given a list of intervals, merge overlapping intervals.
-    - Example input: `intervals = [[1, 3], [2, 6], [8, 10], [15, 18]]`
-    - Example output: `[[1, 6], [8, 10], [15, 18]]`
-
-### **5. Cyclic Sort Pattern**
-
-- **Usage**: Sorting an array with elements in a specific range.
-- **Description**: Arrange elements in their correct positions by leveraging their values.
-- **Effective For**: Finding the missing or duplicate number in an array.
-- **Sample Problems**:
-  - **Find the Missing Number**:
-    - Given an array containing numbers from `0` to `n`, find the missing number.
-    - Example input: `arr = [3, 0, 1]`
-    - Example output: `2` (missing number)
-
----
-
-## Certainly! Let's explore some essential problem-solving patterns in data structures and algorithms (DSA). These patterns provide a structured approach to tackle various types of problems. Here are **20 examples** of such patterns:
+# **essential problem-solving patterns in data structures and algorithms (DSA)**. These patterns provide a structured approach to tackle various types of problems. Here are **20 examples** of such patterns:
 
 1. **Two Pointer Technique**:
 
@@ -245,11 +176,9 @@ Certainly! Let's explore **15 essential problem-solving patterns** in data struc
       - Fibonacci numbers using matrix exponentiation.
       - Linear recurrence relations.
 
-Remember to practice these patterns by solving various problems to reinforce your understanding. Happy coding! 😊 .
-
 ---
 
-## Certainly! Let's dive into examples for each of the problem-solving patterns I mentioned earlier:
+# examples for each of the problem-solving patterns mentioned earlier:
 
 1. **Two Pointer Technique**:
 

@@ -1,4 +1,4 @@
-## **Algorithm Design Patterns**
+# **Algorithm Design Patterns**
 
 ### **1. Greedy Algorithms**
 
@@ -90,9 +90,7 @@
   - **Traveling Salesman Problem (TSP)**: Approximate solutions using heuristics.
   - **Set Cover Problem**: Approximate minimum set cover.
 
-Remember that the choice of algorithm depends on the problem context, input size, and specific requirements. Each pattern has its own trade-offs, and understanding when to apply them is crucial for efficient problem-solving.
-
-Certainly! Here's an expanded list of algorithmic approaches, along with the specific algorithms used within each category:
+# expanded list of algorithmic approaches, along with the specific algorithms used within each category:
 
 ## **Algorithm Design Patterns**
 
@@ -215,7 +213,7 @@ Certainly! Here's an expanded list of algorithmic approaches, along with the spe
 
 Remember that mastering these approaches will enhance your problem-solving skills across various domains! 🚀
 
-### Certainly! Below, I've compiled a list of **15+ common problem-solving approaches** used in data structure and algorithm (DSA) problems. Each approach is categorized by the algorithm it employs, along with its difficulty level. Let's dive in:
+# **15+ common problem-solving approaches** used in data structure and algorithm (DSA) problems. Each approach is categorized by the algorithm it employs, along with its difficulty level. Let's dive in:
 
 ## 1. **Two Pointers Technique**
 
@@ -306,9 +304,9 @@ Remember that mastering these approaches will enhance your problem-solving skill
   - **Detect Cycle in an Undirected Graph**: Check if a graph contains a cycle.
   - **Connecting Cities With Minimum Cost**: Connect cities with minimum cost.
 
-Certainly! Let's explore some **advanced data structures and algorithms** that go beyond the basics. These structures and techniques are essential for solving complex problems efficiently:
+# **advanced data structures and algorithms** that go beyond the basics. These structures and techniques are essential for solving complex problems efficiently:
 
-## 1. **Generic Linked List in C**
+## 1. **Generic Linked List in C#**
 
 - **Algorithm**: Implementation of a generic linked list.
 - **Difficulty**: Moderate.
@@ -373,5 +371,3 @@ Certainly! Let's explore some **advanced data structures and algorithms** that g
 - **Algorithm**: Maintain disjoint sets and perform union and find operations.
 - **Difficulty**: Moderate.
 - **Example**: Detect cycles in an undirected graph using union-find.
-
-These advanced data structures and algorithms are crucial for tackling complex problems efficiently. Dive into their implementations and explore their applications! 🚀
