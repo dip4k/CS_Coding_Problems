@@ -26,9 +26,9 @@ public static class ArrayAlgo
         var dictionary = new Dictionary<int, int>();
         foreach (var item in input)
         {
-            if (dictionary.ContainsKey(item))
+            if (dictionary.TryGetValue(item, out int value))
             {
-                dictionary[item]++;
+                dictionary[item] = ++value;
             }
             else
             {
