@@ -18,3 +18,4 @@
 - Dynamic Programming
 
 - [Technical-Interview-Study-Guide.pdf](https://github.com/khanhnamle1994/technical-interview-prep/blob/master/Technical-Interview-Study-Guide.pdf)
+- [Coding Interview Patterns](https://github.com/dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions/blob/master/README.md)
