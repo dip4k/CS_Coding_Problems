@@ -16,3 +16,5 @@
 - Recursion
 - Backtracking Algorithm
 - Dynamic Programming
+
+- [Technical-Interview-Study-Guide.pdf](https://github.com/khanhnamle1994/technical-interview-prep/blob/master/Technical-Interview-Study-Guide.pdf)
